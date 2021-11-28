@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const fileUpload = require('express-fileUpload');
+const fileUpload = require('express-fileupload');
 const methodOverride = require('method-override');
 const ejs = require('ejs');
 const path = require('path');
